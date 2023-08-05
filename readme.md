@@ -4,7 +4,9 @@
 
 Installation package for DMC node startup binary files.
 
-**Currently, only Unix environments are supported. We recommend using Ubuntu 18.04 or higher versions.**
+We currently support the following operating systems.
+- Ubuntu 22.04
+- Ubuntu 20.04
 
 ### Version Description
 - The development version is a version under development and may undergo significant changes. It is not recommended for use in production environments.
